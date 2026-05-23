@@ -1,22 +1,5 @@
-## Topic 1 — AI Testing, Debugging, and Automation (topic-1-ai-testing,-debugging,-and-automation)
+# AI in Software Testing and Automation
+Notes on how generative AI is shifting QA and testing protocols:
 
-Students will investigate how AI is used in:
-
-* software testing,  
-* bug detection,  
-* debugging,  
-* CI/CD automation,  
-* and software maintenance.
-
-Possible areas:
-
-* AI-generated test cases  
-* automated bug detection  
-* intelligent debugging systems  
-* automated deployment assistance
-
-Students should discuss:
-
-* reliability of AI-generated testing,  
-* risks of automation,  
-* and human supervision requirements.
+* **Automated Unit Test Generation:** AI tools can instantly generate basic test suites (edge cases, null values).
+* **The Human Requirement:** AI-generated tests frequently miss deep logic errors or unique business rules. Humans must still review and verify test parameters to prevent security vulnerabilities.
