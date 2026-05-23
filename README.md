@@ -1,162 +1,57 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/UQ6_LRuL)
-# Repository Structure
-Keep your files in a folder named as your id and full name under the specified topic folder. (e.g.: 23900011-Edi-Muka) 
-The repository will follow the structure below. Students must follow this structure exactly:
+# SWE101 — Assignment 1 and 2: AI and the Future of Software Engineering
 
-```
-    /01-ai-tools
-   	  /23900011-Edi-Muka	
-          research.md		      		(the research content)
-          reflection.md		      		(your reflection)
-          references.md 	      		(list your references)
-      		/reference-articles			(keep all findings as files)
-                article1_title.pdf		(set their titles as file names)
-                article2_title.html
-                article3_title.docx
-	
-    /06-ethics-risks
-      /220103086-Christian-Dingo
-          research.md
-          reflection.md
-          references.md 
-          /reference-articles
-                article11_title.html
-```
-   
-Each student is responsible only for their own folder and files. Do not edit or delete other’s files.
-Each student will work on ONE assigned main topic.
+## Student Information
+* **Name:** Alana Spiro
+* **Course:** Software Engineering 101 (SWE101)
+* **Date:** May 2026
 
-Topics will be assigned according to the last digit of your student ID.
+---
 
-| Last Digit of your Student ID | Assigned Topic |
-| :---: | ----- |
-| 0 | AI Coding and Development Tools |
-| 1 | AI Testing, Debugging, and Automation |
-| 2 | New Skills Required in the AI Era |
-| 3 | Career Strategy and Continuous Learning |
-| 4 | Discussions in the Software Engineering Community |
-| 5 | AI Statistics and Industry Reports |
-| 6 | Risks, Ethics, and Limitations of AI |
-| 7 | Future of Software Engineering Jobs |
-| 8 | Real Industry Case Studies |
-| 9 | Human Skills That Remain Important in the AI Era |
+## Project Overview
+This repository contains the research and personal reflection addressing the evolving landscape of software development. The core objective of this project is to answer the critical question:
 
+> **"What kind of software engineer will remain valuable in the AI era?"**
 
-## GitHub Collaboration Rules 
+This assignment evaluates both the technical usage of GitHub workflows (Section A) and the depth of research regarding AI's impact on the industry (Section B).
 
-This assignment also evaluates collaboration workflow.
+---
 
-### Rule 1  
+## Repository Structure
+To ensure clean organization and proper folder structure, the repository is divided into the following sections:
 
-Each student must work only inside their own folder.
+* `/section-a/` — GitHub contribution tracking and workflow logs.
+* `/section-b/` — Detailed research content, essays, and personal reflections.
+  * `research.docx` — Deep dive into critical human skills.
+  * `reflection.docx` — Personal insights and career outlook.
+* `README.md` — Project overview and navigation guide.
 
-### Rule 2 
+---
 
-Students must NOT modify or delete another student’s files.
+## Section B: Summary of Research & Reflection
 
-### Rule 3 
+### 1. Human Skills That Remain Important in the AI Era
+[span_0](start_span)While AI tools can generate code, suggest solutions, and automate repetitive tasks[span_0](end_span)[span_1](start_span), they cannot fully replace human thinking, creativity, communication, and decision-making[span_1](end_span). [span_2](start_span)Software engineering involves understanding client needs, working in teams, solving unexpected problems, making ethical decisions, and designing systems for real-world users[span_2](end_span). 
 
-Each student must upload:
+The irreplaceable human pillars identified in this research include:
+* **[span_3](start_span)Communication & Client Interaction:** Translating unclear or emotional client needs into clear technical solutions[span_3](end_span)[span_4](start_span), and collaborating across multidisciplinary teams[span_4](end_span).
+* **[span_5](start_span)[span_6](start_span)Teamwork & Collaboration:** Building trust, empathy, and social understanding within engineering teams, as seen in open-source environments[span_5](end_span)[span_6](end_span).
+* **[span_7](start_span)Critical Thinking:** Verifying AI-generated outputs for security vulnerabilities, incorrect logic, inefficient algorithms, and architectural flaws[span_7](end_span).
+* **[span_8](start_span)Creativity & Innovation:** Inventing entirely new ideas, unique designs, and innovative solutions that AI cannot generate from past data alone[span_8](end_span).
+* **[span_9](start_span)Leadership & Strategic Decisions:** Managing risks, resolving conflicts, setting priorities, and providing emotional intelligence to motivate teams[span_9](end_span).
+* **[span_10](start_span)[span_11](start_span)Ethical Reasoning:** Ensuring user privacy, fairness, and safety in software systems to prevent biased or harmful AI outputs[span_10](end_span)[span_11](end_span).
+* **[span_12](start_span)[span_13](start_span)Adaptability:** Continuously learning new tools, programming languages, and industry trends to work alongside AI effectively[span_12](end_span)[span_13](end_span).
 
-* research content,  
-* references,  
-* and personal reflection
+### 2. Personal Reflection Snapshot
+[span_14](start_span)Researching this topic shifted my perspective from fearing that AI would completely replace developers[span_14](end_span)[span_15](start_span)[span_16](start_span), to realizing that the future of software engineering relies on human-AI collaboration[span_15](end_span)[span_16](end_span). [span_17](start_span)While there are concerns about developers becoming overly dependent on AI and losing core technical skills[span_17](end_span)[span_18](start_span), AI provides an incredible opportunity to automate mundane tasks so we can focus on system design and complex problem-solving[span_18](end_span). [span_19](start_span)Moving forward, the goal is to learn how to work alongside AI rather than trying to compete against it[span_19](end_span).
 
-inside their own folder.
+---
 
-### Rule 4 
-
-All students will push directly to the `main` branch.
-
-### Rule 5 
-
-Commit messages should clearly describe the work added.
-
-Good example: `Added statistics research and reflection`
-
-Bad example: `update`
-
-## Required Workflow 
-
-Each student must complete the following steps:
-
-### Step 1 — Clone Repository 
-
-Clone the shared repository to your computer. You can use git bash (command line) or Github Client application.
-
-Pull the latest changes before starting work. That is important for synchronization problems.
-
-`git pull`
-
-### Step 2 — Create Personal Folder 
-
-Inside the assigned topic directory, create your personal folder using:
-
-**studentID-fullname**
-
-format.
-
-### Step 3 — Add Your Files 
-
-Inside the folder that you define newly, create:
-
-`research.md`
-`reflection.md`
-`references.md`
-
-### Step 4 — Write Research Content 
-
-Add your research findings into:
-
-`research.md`
-
-### Step 5 — Add References 
-
-List all used articles, reports, websites, videos, or resources inside:
-
-`references.md`
-
-### Step 6 — Write Personal Reflection (mandatory) 
-
-Each student must write an individual reflection. This is NOT a summary. You must discuss your own thoughts and conclusions.
-
-Write your personal thoughts and conclusions inside:
-
-`reflection.md`
-
-Possible reflection questions:
-
-* What surprised you most?  
-* What concerns you about AI in software engineering?  
-* What opportunities do you see?  
-* Which skills do you think will remain important?  
-* How should software engineers adapt in the future?  
-* Did your opinion change after research?  
-* How will YOU personally adapt?
-
-### Step 7 — Commit and Push 
-
-Commit your work regularly and push your changes to the shared repository.
-
-Example:
-
-`git add .`  
-`git commit -m "Added AI risks research and reflection"`  
-`git push`
-
-You are responsible for ensuring that your files are correctly uploaded to the repository before the deadline.
-
-# Submission Requirements 
-
-Each repository must contain:
-
-* completed research sections as described,  
-* minimum 10 references,  
-* contribution records,  
-* commit history (not one time, periodically every two days),  
-* individual reflections,  
-* organized documentation.
-  
-
-
-Read shared **Assignment Guide** for more details.
+## References
+1. GitHub. “The State of AI in Software Development.” (https://github.blog/) [span_20](start_span)
+2. Stack Overflow Developer Survey. (https://survey.stackoverflow.co/) [span_20](end_span)
+3. McKinsey & Company. “The Economic Potential of Generative AI.” (https://www.mckinsey.com/) [span_21](start_span)
+4. Microsoft Research on AI-Assisted Development. (https://www.microsoft.com/en-us/research/) [span_21](end_span)
+5. IBM. “What is Artificial Intelligence?” (https://www.ibm.com/topics/artificial-intelligence) [span_22](start_span)
+6. OpenAI Documentation and Research. (https://openai.com/research/) [span_22](end_span)
+7. Google Developers Blog – AI and Software Engineering. (https://developers.googleblog.com/) [span_23](start_span)
+8. JetBrains Developer Ecosystem Reports. (https://www.jetbrains.com/lp/devecosystem-2024/) [span_23](end_span)
